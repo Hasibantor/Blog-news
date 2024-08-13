@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "The Echo of Silence",
+        "author": "Aria Blackwood",
+        "cover": "https://i.ibb.co/WgjV955/Whats-App-Image-2024-08-13-at-20-46-57.jpg",
+        "author_img": "https://i.ibb.co/DfNTJdS/profile.png",
+        "posted_date": "2024-08-01",
+        "reading_time": "12 min",
+        "hashtags": ["#mystery", "#thriller", "#suspense"]
+    },
+    {
+        "id": "2",
+        "title": "Whispers in the Wind",
+        "author": "Jaxon Reed",
+        "cover": "https://i.ibb.co/kShW8Kg/Whats-App-Image-2024-08-13-at-20-46-58.jpg",
+        "author_img": "https://i.ibb.co/DfNTJdS/profile.png",
+        "posted_date": "2024-08-05",
+        "reading_time": "8 min",
+        "hashtags": ["#romance", "#adventure", "#drama"]
+    },
+    {
+        "id": "3",
+        "title": "The Lost Kingdom",
+        "author": "Luna Evermore",
+        "cover": "https://i.ibb.co/WgjV955/Whats-App-Image-2024-08-13-at-20-46-57.jpg",
+        "author_img": "https://i.ibb.co/DfNTJdS/profile.png",
+        "posted_date": "2024-08-10",
+        "reading_time": "15 min",
+        "hashtags": ["#fantasy", "#epic", "#magic"]
+    },
+    {
+        "id": "4",
+        "title": "Shadows of the Past",
+        "author": "Finn Ashford",
+        "cover": "https://i.ibb.co/kShW8Kg/Whats-App-Image-2024-08-13-at-20-46-58.jpg",
+        "author_img": "https://i.ibb.co/DfNTJdS/profile.png",
+        "posted_date": "2024-08-12",
+        "reading_time": "10 min",
+        "hashtags": ["#historical", "#mystery", "#crime"]
+    },
+    {
+        "id": "5",
+        "title": "Beneath the Stars",
+        "author": "Maya Wren",
+        "cover": "https://i.ibb.co/WgjV955/Whats-App-Image-2024-08-13-at-20-46-57.jpg",
+        "author_img": "https://i.ibb.co/DfNTJdS/profile.png",
+        "posted_date": "2024-08-13",
+        "reading_time": "9 min",
+        "hashtags": ["#sciencefiction", "#space", "#adventure"]
+    }
+]
